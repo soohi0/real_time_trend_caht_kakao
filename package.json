@@ -1,0 +1,17 @@
+{
+  "name": "real_time_kakao",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cheerio": "^1.0.0-rc.5",
+    "google-trends-api": "^4.9.2",
+    "request": "^2.88.2"
+  }
+}

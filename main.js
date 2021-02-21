@@ -11,6 +11,6 @@ app.use('/api/getTrend', require('./router/getTrend.js'));
 app.use('/api/getMelon', require('./router/getMelon.js'));
 app.use('/api/resSearch', require('./router/resSearch.js'));
 
-app.listen(3000, function() {
+app.listen(8602, function() {
     console.log('Example skill server listening on port 3000!');
 });

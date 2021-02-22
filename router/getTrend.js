@@ -2,6 +2,21 @@ const express = require('express');
 const router = express.Router();
 const googleTrends = require('google-trends-api');
 
+var todaysDate = new Date();
+
+function convertDate(date) {
+  var yyyy = date.getFullYear().toString();
+  var mm = (date.getMonth()+1).toString();
+  var dd  = date.getDate().toString();
+
+  var mmChars = mm.split('');
+  var ddChars = dd.split('');
+
+  return yyyy + '-' + (mmChars[1]?mm:"0"+mmChars[0]) + '-' + (ddChars[1]?dd:"0"+ddChars[0]);
+}
+
+console.log(convertDate(todaysDate)); // Returns: 2015-08-25
+
 const reqDataToKakao = (responseBody, res) => {
     res.status(200).send(responseBody)
 }
@@ -14,10 +29,9 @@ router.post('/', function(req, res) {
 	
 	switch (web){
 		case 'google' :
-			resData = "구글은 "
 			 
 			googleTrends.dailyTrends({
-				trendDate: new Date('2021-02-13'),
+				trendDate: new Date(convertDate(todaysDate)),
 				geo: 'KR',
 			}, (err, results) => {
 			if (err) {

@@ -1,0 +1,364 @@
+﻿[
+ {
+  "trends": [
+   {
+    "name": "스몰토크",
+    "url": "http://twitter.com/search?q=%EC%8A%A4%EB%AA%B0%ED%86%A0%ED%81%AC",
+    "promoted_content": null,
+    "query": "%EC%8A%A4%EB%AA%B0%ED%86%A0%ED%81%AC",
+    "tweet_volume": null
+   },
+   {
+    "name": "#SHINee",
+    "url": "http://twitter.com/search?q=%23SHINee",
+    "promoted_content": null,
+    "query": "%23SHINee",
+    "tweet_volume": 461584
+   },
+   {
+    "name": "하트어택",
+    "url": "http://twitter.com/search?q=%ED%95%98%ED%8A%B8%EC%96%B4%ED%83%9D",
+    "promoted_content": null,
+    "query": "%ED%95%98%ED%8A%B8%EC%96%B4%ED%83%9D",
+    "tweet_volume": null
+   },
+   {
+    "name": "BE 에센셜",
+    "url": "http://twitter.com/search?q=%22BE+%EC%97%90%EC%84%BC%EC%85%9C%22",
+    "promoted_content": null,
+    "query": "%22BE+%EC%97%90%EC%84%BC%EC%85%9C%22",
+    "tweet_volume": 12329
+   },
+   {
+    "name": "한파주의보",
+    "url": "http://twitter.com/search?q=%ED%95%9C%ED%8C%8C%EC%A3%BC%EC%9D%98%EB%B3%B4",
+    "promoted_content": null,
+    "query": "%ED%95%9C%ED%8C%8C%EC%A3%BC%EC%9D%98%EB%B3%B4",
+    "tweet_volume": null
+   },
+   {
+    "name": "네코미미",
+    "url": "http://twitter.com/search?q=%EB%84%A4%EC%BD%94%EB%AF%B8%EB%AF%B8",
+    "promoted_content": null,
+    "query": "%EB%84%A4%EC%BD%94%EB%AF%B8%EB%AF%B8",
+    "tweet_volume": null
+   },
+   {
+    "name": "위버스 특전",
+    "url": "http://twitter.com/search?q=%22%EC%9C%84%EB%B2%84%EC%8A%A4+%ED%8A%B9%EC%A0%84%22",
+    "promoted_content": null,
+    "query": "%22%EC%9C%84%EB%B2%84%EC%8A%A4+%ED%8A%B9%EC%A0%84%22",
+    "tweet_volume": 12854
+   },
+   {
+    "name": "#Dont_Call_Me",
+    "url": "http://twitter.com/search?q=%23Dont_Call_Me",
+    "promoted_content": null,
+    "query": "%23Dont_Call_Me",
+    "tweet_volume": 345769
+   },
+   {
+    "name": "특전 교환",
+    "url": "http://twitter.com/search?q=%22%ED%8A%B9%EC%A0%84+%EA%B5%90%ED%99%98%22",
+    "promoted_content": null,
+    "query": "%22%ED%8A%B9%EC%A0%84+%EA%B5%90%ED%99%98%22",
+    "tweet_volume": 12942
+   },
+   {
+    "name": "#샤이니",
+    "url": "http://twitter.com/search?q=%23%EC%83%A4%EC%9D%B4%EB%8B%88",
+    "promoted_content": null,
+    "query": "%23%EC%83%A4%EC%9D%B4%EB%8B%88",
+    "tweet_volume": 225873
+   },
+   {
+    "name": "#제2의링딩동_돈콜미",
+    "url": "http://twitter.com/search?q=%23%EC%A0%9C2%EC%9D%98%EB%A7%81%EB%94%A9%EB%8F%99_%EB%8F%88%EC%BD%9C%EB%AF%B8",
+    "promoted_content": null,
+    "query": "%23%EC%A0%9C2%EC%9D%98%EB%A7%81%EB%94%A9%EB%8F%99_%EB%8F%88%EC%BD%9C%EB%AF%B8",
+    "tweet_volume": 106122
+   },
+   {
+    "name": "에센셜 앨범",
+    "url": "http://twitter.com/search?q=%22%EC%97%90%EC%84%BC%EC%85%9C+%EC%95%A8%EB%B2%94%22",
+    "promoted_content": null,
+    "query": "%22%EC%97%90%EC%84%BC%EC%85%9C+%EC%95%A8%EB%B2%94%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "특전 포카",
+    "url": "http://twitter.com/search?q=%22%ED%8A%B9%EC%A0%84+%ED%8F%AC%EC%B9%B4%22",
+    "promoted_content": null,
+    "query": "%22%ED%8A%B9%EC%A0%84+%ED%8F%AC%EC%B9%B4%22",
+    "tweet_volume": 14789
+   },
+   {
+    "name": "졸업앨범",
+    "url": "http://twitter.com/search?q=%EC%A1%B8%EC%97%85%EC%95%A8%EB%B2%94",
+    "promoted_content": null,
+    "query": "%EC%A1%B8%EC%97%85%EC%95%A8%EB%B2%94",
+    "tweet_volume": 14671
+   },
+   {
+    "name": "#ASTRO5thANNIVERSARY",
+    "url": "http://twitter.com/search?q=%23ASTRO5thANNIVERSARY",
+    "promoted_content": null,
+    "query": "%23ASTRO5thANNIVERSARY",
+    "tweet_volume": 150674
+   },
+   {
+    "name": "아스트로",
+    "url": "http://twitter.com/search?q=%EC%95%84%EC%8A%A4%ED%8A%B8%EB%A1%9C",
+    "promoted_content": null,
+    "query": "%EC%95%84%EC%8A%A4%ED%8A%B8%EB%A1%9C",
+    "tweet_volume": 268736
+   },
+   {
+    "name": "위해 현질",
+    "url": "http://twitter.com/search?q=%22%EC%9C%84%ED%95%B4+%ED%98%84%EC%A7%88%22",
+    "promoted_content": null,
+    "query": "%22%EC%9C%84%ED%95%B4+%ED%98%84%EC%A7%88%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "에픽쿠키",
+    "url": "http://twitter.com/search?q=%EC%97%90%ED%94%BD%EC%BF%A0%ED%82%A4",
+    "promoted_content": null,
+    "query": "%EC%97%90%ED%94%BD%EC%BF%A0%ED%82%A4",
+    "tweet_volume": null
+   },
+   {
+    "name": "맥스레벨",
+    "url": "http://twitter.com/search?q=%EB%A7%A5%EC%8A%A4%EB%A0%88%EB%B2%A8",
+    "promoted_content": null,
+    "query": "%EB%A7%A5%EC%8A%A4%EB%A0%88%EB%B2%A8",
+    "tweet_volume": null
+   },
+   {
+    "name": "연뮤덕 닉네임",
+    "url": "http://twitter.com/search?q=%22%EC%97%B0%EB%AE%A4%EB%8D%95+%EB%8B%89%EB%84%A4%EC%9E%84%22",
+    "promoted_content": null,
+    "query": "%22%EC%97%B0%EB%AE%A4%EB%8D%95+%EB%8B%89%EB%84%A4%EC%9E%84%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "본인의 문제점",
+    "url": "http://twitter.com/search?q=%22%EB%B3%B8%EC%9D%B8%EC%9D%98+%EB%AC%B8%EC%A0%9C%EC%A0%90%22",
+    "promoted_content": null,
+    "query": "%22%EB%B3%B8%EC%9D%B8%EC%9D%98+%EB%AC%B8%EC%A0%9C%EC%A0%90%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "다프트펑크",
+    "url": "http://twitter.com/search?q=%EB%8B%A4%ED%94%84%ED%8A%B8%ED%8E%91%ED%81%AC",
+    "promoted_content": null,
+    "query": "%EB%8B%A4%ED%94%84%ED%8A%B8%ED%8E%91%ED%81%AC",
+    "tweet_volume": null
+   },
+   {
+    "name": "생일너무너무",
+    "url": "http://twitter.com/search?q=%EC%83%9D%EC%9D%BC%EB%84%88%EB%AC%B4%EB%84%88%EB%AC%B4",
+    "promoted_content": null,
+    "query": "%EC%83%9D%EC%9D%BC%EB%84%88%EB%AC%B4%EB%84%88%EB%AC%B4",
+    "tweet_volume": 18818
+   },
+   {
+    "name": "성대결절",
+    "url": "http://twitter.com/search?q=%EC%84%B1%EB%8C%80%EA%B2%B0%EC%A0%88",
+    "promoted_content": null,
+    "query": "%EC%84%B1%EB%8C%80%EA%B2%B0%EC%A0%88",
+    "tweet_volume": null
+   },
+   {
+    "name": "포토매틱",
+    "url": "http://twitter.com/search?q=%ED%8F%AC%ED%86%A0%EB%A7%A4%ED%8B%B1",
+    "promoted_content": null,
+    "query": "%ED%8F%AC%ED%86%A0%EB%A7%A4%ED%8B%B1",
+    "tweet_volume": null
+   },
+   {
+    "name": "서울 말투",
+    "url": "http://twitter.com/search?q=%22%EC%84%9C%EC%9A%B8+%EB%A7%90%ED%88%AC%22",
+    "promoted_content": null,
+    "query": "%22%EC%84%9C%EC%9A%B8+%EB%A7%90%ED%88%AC%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "당신의어깨",
+    "url": "http://twitter.com/search?q=%EB%8B%B9%EC%8B%A0%EC%9D%98%EC%96%B4%EA%B9%A8",
+    "promoted_content": null,
+    "query": "%EB%8B%B9%EC%8B%A0%EC%9D%98%EC%96%B4%EA%B9%A8",
+    "tweet_volume": null
+   },
+   {
+    "name": "아키토우",
+    "url": "http://twitter.com/search?q=%EC%95%84%ED%82%A4%ED%86%A0%EC%9A%B0",
+    "promoted_content": null,
+    "query": "%EC%95%84%ED%82%A4%ED%86%A0%EC%9A%B0",
+    "tweet_volume": null
+   },
+   {
+    "name": "케빈 생일",
+    "url": "http://twitter.com/search?q=%22%EC%BC%80%EB%B9%88+%EC%83%9D%EC%9D%BC%22",
+    "promoted_content": null,
+    "query": "%22%EC%BC%80%EB%B9%88+%EC%83%9D%EC%9D%BC%22",
+    "tweet_volume": 13049
+   },
+   {
+    "name": "vanishing 세계관",
+    "url": "http://twitter.com/search?q=%22vanishing+%EC%84%B8%EA%B3%84%EA%B4%80%22",
+    "promoted_content": null,
+    "query": "%22vanishing+%EC%84%B8%EA%B3%84%EA%B4%80%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "사회부적응자",
+    "url": "http://twitter.com/search?q=%EC%82%AC%ED%9A%8C%EB%B6%80%EC%A0%81%EC%9D%91%EC%9E%90",
+    "promoted_content": null,
+    "query": "%EC%82%AC%ED%9A%8C%EB%B6%80%EC%A0%81%EC%9D%91%EC%9E%90",
+    "tweet_volume": null
+   },
+   {
+    "name": "타로밀크티맛",
+    "url": "http://twitter.com/search?q=%ED%83%80%EB%A1%9C%EB%B0%80%ED%81%AC%ED%8B%B0%EB%A7%9B",
+    "promoted_content": null,
+    "query": "%ED%83%80%EB%A1%9C%EB%B0%80%ED%81%AC%ED%8B%B0%EB%A7%9B",
+    "tweet_volume": null
+   },
+   {
+    "name": "귤청맛 쿠키",
+    "url": "http://twitter.com/search?q=%22%EA%B7%A4%EC%B2%AD%EB%A7%9B+%EC%BF%A0%ED%82%A4%22",
+    "promoted_content": null,
+    "query": "%22%EA%B7%A4%EC%B2%AD%EB%A7%9B+%EC%BF%A0%ED%82%A4%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "츄르맛 쿠키",
+    "url": "http://twitter.com/search?q=%22%EC%B8%84%EB%A5%B4%EB%A7%9B+%EC%BF%A0%ED%82%A4%22",
+    "promoted_content": null,
+    "query": "%22%EC%B8%84%EB%A5%B4%EB%A7%9B+%EC%BF%A0%ED%82%A4%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "무화과맛",
+    "url": "http://twitter.com/search?q=%EB%AC%B4%ED%99%94%EA%B3%BC%EB%A7%9B",
+    "promoted_content": null,
+    "query": "%EB%AC%B4%ED%99%94%EA%B3%BC%EB%A7%9B",
+    "tweet_volume": null
+   },
+   {
+    "name": "떡볶이맛 쿠키",
+    "url": "http://twitter.com/search?q=%22%EB%96%A1%EB%B3%B6%EC%9D%B4%EB%A7%9B+%EC%BF%A0%ED%82%A4%22",
+    "promoted_content": null,
+    "query": "%22%EB%96%A1%EB%B3%B6%EC%9D%B4%EB%A7%9B+%EC%BF%A0%ED%82%A4%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "독립만세",
+    "url": "http://twitter.com/search?q=%EB%8F%85%EB%A6%BD%EB%A7%8C%EC%84%B8",
+    "promoted_content": null,
+    "query": "%EB%8F%85%EB%A6%BD%EB%A7%8C%EC%84%B8",
+    "tweet_volume": null
+   },
+   {
+    "name": "산딸기맛 쿠키",
+    "url": "http://twitter.com/search?q=%22%EC%82%B0%EB%94%B8%EA%B8%B0%EB%A7%9B+%EC%BF%A0%ED%82%A4%22",
+    "promoted_content": null,
+    "query": "%22%EC%82%B0%EB%94%B8%EA%B8%B0%EB%A7%9B+%EC%BF%A0%ED%82%A4%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "인절미맛 쿠키",
+    "url": "http://twitter.com/search?q=%22%EC%9D%B8%EC%A0%88%EB%AF%B8%EB%A7%9B+%EC%BF%A0%ED%82%A4%22",
+    "promoted_content": null,
+    "query": "%22%EC%9D%B8%EC%A0%88%EB%AF%B8%EB%A7%9B+%EC%BF%A0%ED%82%A4%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "하트 하씨",
+    "url": "http://twitter.com/search?q=%22%ED%95%98%ED%8A%B8+%ED%95%98%EC%94%A8%22",
+    "promoted_content": null,
+    "query": "%22%ED%95%98%ED%8A%B8+%ED%95%98%EC%94%A8%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "애플망고맛 쿠키",
+    "url": "http://twitter.com/search?q=%22%EC%95%A0%ED%94%8C%EB%A7%9D%EA%B3%A0%EB%A7%9B+%EC%BF%A0%ED%82%A4%22",
+    "promoted_content": null,
+    "query": "%22%EC%95%A0%ED%94%8C%EB%A7%9D%EA%B3%A0%EB%A7%9B+%EC%BF%A0%ED%82%A4%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "캬라멜 팝콘맛",
+    "url": "http://twitter.com/search?q=%22%EC%BA%AC%EB%9D%BC%EB%A9%9C+%ED%8C%9D%EC%BD%98%EB%A7%9B%22",
+    "promoted_content": null,
+    "query": "%22%EC%BA%AC%EB%9D%BC%EB%A9%9C+%ED%8C%9D%EC%BD%98%EB%A7%9B%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "양고기맛",
+    "url": "http://twitter.com/search?q=%EC%96%91%EA%B3%A0%EA%B8%B0%EB%A7%9B",
+    "promoted_content": null,
+    "query": "%EC%96%91%EA%B3%A0%EA%B8%B0%EB%A7%9B",
+    "tweet_volume": null
+   },
+   {
+    "name": "여성호르몬",
+    "url": "http://twitter.com/search?q=%EC%97%AC%EC%84%B1%ED%98%B8%EB%A5%B4%EB%AA%AC",
+    "promoted_content": null,
+    "query": "%EC%97%AC%EC%84%B1%ED%98%B8%EB%A5%B4%EB%AA%AC",
+    "tweet_volume": null
+   },
+   {
+    "name": "솜사탕맛 쿠키",
+    "url": "http://twitter.com/search?q=%22%EC%86%9C%EC%82%AC%ED%83%95%EB%A7%9B+%EC%BF%A0%ED%82%A4%22",
+    "promoted_content": null,
+    "query": "%22%EC%86%9C%EC%82%AC%ED%83%95%EB%A7%9B+%EC%BF%A0%ED%82%A4%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "두유맛 쿠키",
+    "url": "http://twitter.com/search?q=%22%EB%91%90%EC%9C%A0%EB%A7%9B+%EC%BF%A0%ED%82%A4%22",
+    "promoted_content": null,
+    "query": "%22%EB%91%90%EC%9C%A0%EB%A7%9B+%EC%BF%A0%ED%82%A4%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "다빈치맛",
+    "url": "http://twitter.com/search?q=%EB%8B%A4%EB%B9%88%EC%B9%98%EB%A7%9B",
+    "promoted_content": null,
+    "query": "%EB%8B%A4%EB%B9%88%EC%B9%98%EB%A7%9B",
+    "tweet_volume": null
+   },
+   {
+    "name": "치즈타르트맛",
+    "url": "http://twitter.com/search?q=%EC%B9%98%EC%A6%88%ED%83%80%EB%A5%B4%ED%8A%B8%EB%A7%9B",
+    "promoted_content": null,
+    "query": "%EC%B9%98%EC%A6%88%ED%83%80%EB%A5%B4%ED%8A%B8%EB%A7%9B",
+    "tweet_volume": null
+   },
+   {
+    "name": "복숭아잼맛 쿠키",
+    "url": "http://twitter.com/search?q=%22%EB%B3%B5%EC%88%AD%EC%95%84%EC%9E%BC%EB%A7%9B+%EC%BF%A0%ED%82%A4%22",
+    "promoted_content": null,
+    "query": "%22%EB%B3%B5%EC%88%AD%EC%95%84%EC%9E%BC%EB%A7%9B+%EC%BF%A0%ED%82%A4%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "메이플 시럽맛",
+    "url": "http://twitter.com/search?q=%22%EB%A9%94%EC%9D%B4%ED%94%8C+%EC%8B%9C%EB%9F%BD%EB%A7%9B%22",
+    "promoted_content": null,
+    "query": "%22%EB%A9%94%EC%9D%B4%ED%94%8C+%EC%8B%9C%EB%9F%BD%EB%A7%9B%22",
+    "tweet_volume": null
+   }
+  ],
+  "as_of": "2021-02-22T15:29:56Z",
+  "created_at": "2021-02-21T23:55:37Z",
+  "locations": [
+   {
+    "name": "Seoul",
+    "woeid": 1132599
+   }
+  ]
+ }
+]

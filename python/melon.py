@@ -36,4 +36,4 @@ for i in lst100 :
 with open('./data/melon.json', 'w', encoding='utf-8') as f:
     json.dump(melonList, f, ensure_ascii=False, indent=1)
 
-print(melonList[0:10])
+# print(melonList[0:10])

@@ -1,6 +1,7 @@
 var fs = require('fs');
 const express = require('express');
-var { twitterInfo } = require("./resText/twitterResText")
+// var { twitterInfo } = require("./resText/twitterResText")
+var { twitterInfo } = require("./resText/twitterResText_onlyText")
 // var funcTwtter = require("./resText/twitterResText");
 
 const router = express.Router();
@@ -8,7 +9,7 @@ const router = express.Router();
 
 router.post('/', function(req, res) {
 
-  var local = req.body.action.params.local || "korea"
+    var local = req.body.action.params.local || "korea"
     // var local = "korea"
 
     var worldData = fs.readFileSync('/Users/bonghayun/Desktop/project/js/real_time_kakao/python/data/twitter_Worldwide_trend.json', 'utf8')

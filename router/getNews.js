@@ -2,7 +2,9 @@ const request = require("request");
 const express = require('express');
 const router = express.Router();
 const cheerio = require('cheerio');
-var { newsInfo } = require("./resText/newsResText")
+// var { newsInfo } = require("./resText/newsResText")
+var { newsInfo } = require("./resText/newsResText_onlyText")
+
 var title = [], link =[], description =[]
 
 router.post('/', function(req, res) {

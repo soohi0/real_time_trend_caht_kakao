@@ -1,4 +1,4 @@
-const twitterInfo = ((titles,links,descriptions) => {
+const newsInfo = ((titles,links,descriptions) => {
 
   var titleBox = ""
   titles.forEach((title,index) => {
@@ -10,29 +10,29 @@ const twitterInfo = ((titles,links,descriptions) => {
     description: titleBox
   }]
 
-  var index = 0
+  // var index = 0
 
-  titles.forEach(title => {
-    var textData = {
-      title: `주요뉴스 #${index+1}`,
-      description: `${title}`,
-      // thumbnail: {
-      //   imageUrl: "http://k.kakaocdn.net/dn/83BvP/bl20duRC1Q1/lj3JUcmrzC53YIjNDkqbWK/i_6piz1p.jpg"
-      // },
-      buttons: [
-        {
-          action:  "webLink",
-          label: "본문읽기",
-          webLinkUrl : `${links[index]}`
-        }
-      ]
-    }
+  // titles.forEach(title => {
+  //   var textData = {
+  //     title: `주요뉴스 #${index+1}`,
+  //     description: `${title}`,
+  //     // thumbnail: {
+  //     //   imageUrl: "http://k.kakaocdn.net/dn/83BvP/bl20duRC1Q1/lj3JUcmrzC53YIjNDkqbWK/i_6piz1p.jpg"
+  //     // },
+  //     buttons: [
+  //       {
+  //         action:  "webLink",
+  //         label: "본문읽기",
+  //         webLinkUrl : `${links[index]}`
+  //       }
+  //     ]
+  //   }
 
-    index = index +1
+  //   index = index +1
 
-    itemInfo.push(textData)
+  //   itemInfo.push(textData)
 
-  })
+  // })
 
   var data =
   {
@@ -52,5 +52,5 @@ const twitterInfo = ((titles,links,descriptions) => {
     return data
 })
 
-module.exports={twitterInfo}
+module.exports={newsInfo}
   

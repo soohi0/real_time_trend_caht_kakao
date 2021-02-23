@@ -31,4 +31,9 @@ for i in lst100 :
 #     writer.writerows(melonList)
 
 # melonList = json.dumps(melonList)
-print(melonList)
+# json_string = json.dumps(melonList)
+
+with open('./data/melon.json', 'w', encoding='utf-8') as f:
+    json.dump(melonList, f, ensure_ascii=False, indent=1)
+
+print(melonList[0:10])

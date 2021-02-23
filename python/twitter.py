@@ -3,12 +3,13 @@ import os
 import json
 import sys
 import geocoder
+import config
 
 # API Keys and Tokens
-consumer_key = 'Q0I7q4PqpYF1odHh8lCTy9wBA'
-consumer_secret = 'PaX249xZ3AVer9lUWroQVjGEF9qjOx8ISulL4Rz31mXEtI38JJ'
-access_token = '1363841680760168451-gVG7kX1TLZcu1ygKTOtFCnAVreqSPy'
-access_token_secret = 'uJgJTD9uGYDNzOVHuRUKoz4blm8I5RKmCoxIwro41arsc'
+consumer_key = config.API["consumer_key"]
+consumer_secret = config.API["consumer_secret"]
+access_token = config.API["access_token"]
+access_token_secret = config.API["access_token_secret"]
 
 # Authorization and Authentication
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
